@@ -1,3 +1,2 @@
-# react-pp7s3l
+# Scholarship Portal
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-pp7s3l)
